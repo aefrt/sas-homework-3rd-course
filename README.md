@@ -14,10 +14,12 @@
 
 [Корреляционный анализ и кластеризация в R](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Копчев-В.%2C-198–2%2C-ПСА-1%2C-ДКР-1.html)
 
+[z-функция на C++](https://github.com/aefrt/sas-homework-3rd-course/blob/main/C.cpp)
+
 ### 1 курс
 
 [Реализация кучи на С++](https://github.com/aefrt/sas-homework-3rd-course/blob/main/A.cpp)
 
-[Прогнозирование цен](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Kopchev%20V%20198-2%20laboratornaia%20rabota%202.ipynb)
+[Прогнозирование цен с помощью Python](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Kopchev%20V%20198-2%20laboratornaia%20rabota%202.ipynb)
 
-[Матричные вычисления](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Лабораторная%20работа%201%20198-2%20Копчев.ipynb)
+[Матричные вычисления в Python](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Лабораторная%20работа%201%20198-2%20Копчев.ipynb)
