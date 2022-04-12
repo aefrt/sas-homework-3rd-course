@@ -8,4 +8,6 @@
 
 [Сегментация клиентов, 3 курс](https://github.com/aefrt/sas-homework-3rd-course/blob/main/hw1.ipynb)
 
-[Прогнозирование цен, 1 курс](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Лабораторная%20работа%201%20198-2%20Копчев.ipynb)
+[Прогнозирование цен, 1 курс](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Kopchev%20V%20198-2%20laboratornaia%20rabota%202.ipynb)
+
+[Матричные вычисления, 1 курс](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Лабораторная%20работа%201%20198-2%20Копчев.ipynb)
