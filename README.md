@@ -16,6 +16,8 @@
 
 [z-функция на C++](https://github.com/aefrt/sas-homework-3rd-course/blob/main/C.cpp)
 
+[Числа Фибоначчи на ассемблере x86](https://github.com/aefrt/sas-homework-3rd-course/blob/main/task1.S)
+
 ### 1 курс
 
 [Реализация кучи на С++](https://github.com/aefrt/sas-homework-3rd-course/blob/main/A.cpp)
