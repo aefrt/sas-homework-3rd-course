@@ -1,5 +1,9 @@
 # Примеры домашних заданий
 
+### 4 курс
+
+[Генерация случайных чисел](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Копчев%20тест1%20ОУФ.ipynb)
+
 ### 3 курс
 
 [Разработка признаков](https://github.com/aefrt/sas-homework-3rd-course/blob/main/homework-practice-02-linregr-kopchev-copy.ipynb)
