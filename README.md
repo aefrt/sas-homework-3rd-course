@@ -4,6 +4,8 @@
 
 [Генерация случайных чисел](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Копчев%20тест1%20ОУФ.ipynb)
 
+[Временные ряды](https://github.com/aefrt/sas-homework-3rd-course/blob/main/hw%20Kopchev%20Vladislav.ipynb)
+
 ### 3 курс
 
 [Разработка признаков](https://github.com/aefrt/sas-homework-3rd-course/blob/main/homework-practice-02-linregr-kopchev-copy.ipynb)
