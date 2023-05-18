@@ -6,6 +6,8 @@
 
 [Временные ряды](https://github.com/aefrt/sas-homework-3rd-course/blob/main/hw%20Kopchev%20Vladislav.ipynb)
 
+[Генерация групп для А/В-тестирования](https://github.com/aefrt/sas-homework-3rd-course/blob/main/vladislav_kopchev_hw2.ipynb)
+
 ### 3 курс
 
 [Разработка признаков](https://github.com/aefrt/sas-homework-3rd-course/blob/main/homework-practice-02-linregr-kopchev-copy.ipynb)
