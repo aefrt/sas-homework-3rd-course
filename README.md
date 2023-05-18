@@ -2,11 +2,11 @@
 
 ### 4 курс
 
-[Генерация случайных чисел](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Копчев%20тест1%20ОУФ.ipynb)
-
-[Временные ряды](https://github.com/aefrt/sas-homework-3rd-course/blob/main/hw%20Kopchev%20Vladislav.ipynb)
+[Генерация случайных чисел для проверки гипотез](https://github.com/aefrt/sas-homework-3rd-course/blob/main/Копчев%20тест1%20ОУФ.ipynb)
 
 [Генерация групп для А/В-тестирования](https://github.com/aefrt/sas-homework-3rd-course/blob/main/vladislav_kopchev_hw2.ipynb)
+
+[Временные ряды для прогнозирования](https://github.com/aefrt/sas-homework-3rd-course/blob/main/hw%20Kopchev%20Vladislav.ipynb)
 
 ### 3 курс
 
